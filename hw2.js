@@ -27,4 +27,4 @@ function gradingSystem(num) {
         console.log("F");
     }
 }
-var grade = gradingSystem(87);
+var grade = gradingSystem();
